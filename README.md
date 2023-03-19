@@ -1,6 +1,6 @@
-![I am Web Developer](http://127.0.0.1:5500/img/github-psd.png)
 ### Hi there 👋, I'm Shuvo Deb
 #### I am Web Developer
+![I am Web Developer](http://127.0.0.1:5500/img/github-psd.png)
 
 I am Front-end Web Developer.
 
