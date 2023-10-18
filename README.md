@@ -1,7 +1,7 @@
 ![I am Web Developer](https://i.ibb.co/k5rfgpB/183.jpg)
 
-### Hi there 👋, I'm Shuvo Deb
-#### I am Web Developer
+### Hi there 👋, I'm Dhrubojyoti Deb Shuvo
+#### I am MERN Stack Developer
 
 I am Front-end Web Developer.
 
