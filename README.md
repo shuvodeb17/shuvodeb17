@@ -3,9 +3,7 @@
 ### Hi there 👋, I'm Dhrubojyoti Deb Shuvo
 #### I am MERN Stack Developer
 
-I am Front-end Web Developer.
-
-Skills: HTML / CSS / Bootstrap / Tailwind CSS / React / MongoDB / Nodejs / 
+Skills: HTML / CSS / Bootstrap / TailwindCSS / JavaScript / React.js / MongoDB / Node.js / Express.js / Redux / JWT / Axios  
 
 - 🔭 I’m currently working on Portfollio website 
 - 🌱 I’m currently learning JavaScript 
